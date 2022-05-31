@@ -10,6 +10,7 @@ module.exports = {
       .loader("ts-loader");
   },
   devServer: {
-    proxy: "http://localhost:5000"
+    proxy: "http://localhost:5000",
+    disableHostCheck: true
   }
 };
