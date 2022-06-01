@@ -6,6 +6,8 @@ This template dictates an application powered based on public APIs (including Gi
 
 Anyways, please do use this to understand how to use Vue to access APIs and style and all that.
 
+API Spec: https://docs.google.com/document/d/1FpGO57mPJPJCEuAc0C3N-PIse6s2B-QOAaSuxT1An9k/edit?usp=sharing
+
 
 ## Project setup
 ```
